@@ -52,3 +52,6 @@ Randomized Sequence: Adds unpredictability, making the game challenging by gener
 ## Circuit diagram
 ![image](https://github.com/user-attachments/assets/dc6cdbcb-2e34-41bc-8c18-4b2fd3f477b0)
 
+![image](https://github.com/user-attachments/assets/4b88c3f5-c5ed-49aa-95b6-9781d6ba9ac8)
+
+
