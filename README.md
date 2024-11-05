@@ -13,8 +13,6 @@ The Memory Challenge Game randomly generates a sequence of LED flashes that the 
 
 STM32F401 Microcontroller
 
-LCD with I2C Module: Used to display the current game level and game status.
-
 LEDs (3): Indicate the sequence players need to memorize.
 
 Buttons (3): Allow players to input their sequence guesses.
@@ -22,6 +20,10 @@ Buttons (3): Allow players to input their sequence guesses.
 Buzzer: Provides feedback for correct/incorrect sequences and game events.
 
 Potentiometer: Adjusts game difficulty by changing the sequence speed or complexity.
+
+LCD with I2C Module: Used to display the current game level and game status.
+![image](https://github.com/user-attachments/assets/6e918e9a-61ce-43b6-b03c-2059ba426895)
+
 
 
 
