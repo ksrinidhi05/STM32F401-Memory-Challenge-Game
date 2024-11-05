@@ -9,6 +9,8 @@ The Memory Challenge Game randomly generates a sequence of LED flashes that the 
 
 
 ## Components and Peripherals Used
+![image](https://github.com/user-attachments/assets/e77c2e93-6647-4ed6-8c30-0db01c4ea774)
+
 STM32F401 Microcontroller
 
 LCD with I2C Module: Used to display the current game level and game status.
