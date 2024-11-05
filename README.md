@@ -33,6 +33,9 @@ Buttons: Connected to GPIO pins PA1, PA2, and PA3, each with EXTI interrupt hand
 LEDs: Connected to GPIO pins PA5, PA6, and PA7, used to display the game sequence.
 Buzzer: Connected to GPIO pin PA4, providing audio feedback for correct/incorrect responses and game events.
 
+![image](https://github.com/user-attachments/assets/19f3492c-9f4b-4f95-9af1-57828daae3c3)
+
+
 
 
 ## Usage Instructions
