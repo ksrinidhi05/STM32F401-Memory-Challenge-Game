@@ -54,4 +54,7 @@ Randomized Sequence: Adds unpredictability, making the game challenging by gener
 
 ![image](https://github.com/user-attachments/assets/4b88c3f5-c5ed-49aa-95b6-9781d6ba9ac8)
 
+![image](https://github.com/user-attachments/assets/32374861-5199-40b0-a8aa-7aa61c907f84)
+
+
 
