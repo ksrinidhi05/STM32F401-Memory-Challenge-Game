@@ -48,3 +48,7 @@ I2C Communication with LCD: Manages LCD messages with efficient I2C protocol, al
 Analog-to-Digital Conversion (ADC): Continuously reads from the potentiometer to control game speed, enhancing user control.
 NVIC Interrupts: Ensures responsive button input handling through external interrupts, allowing the game to progress smoothly.
 Randomized Sequence: Adds unpredictability, making the game challenging by generating a new pattern every round.
+
+## Circuit diagram
+![image](https://github.com/user-attachments/assets/dc6cdbcb-2e34-41bc-8c18-4b2fd3f477b0)
+
